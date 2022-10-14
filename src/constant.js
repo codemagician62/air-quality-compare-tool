@@ -1,0 +1,1 @@
+export const baseURL = "https://api.openaq.org"
