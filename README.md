@@ -1,10 +1,19 @@
-# Getting Started with Create React App
+# Project Requirements
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Use Semantic UI
+- Utilize OpenAQ platform API
+- Allow the user to input two cities
+- Display the air quality of the corresponding cities, allowing the user to compare the two cities air quality on the same page
+- Gracefully handle any API or user errors
+- Be easily used by the general public
 
-## Available Scripts
+## How to Start
 
-In the project directory, you can run:
+ This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### `git checkout feature/air-quality-compare`
+
+In the project directory, you should switch branch into `feature/air-quality-compare`.
 
 ### `npm start`
 
